@@ -1,0 +1,78 @@
+exercise_name,muscle_group,subgroup
+Incline Barbell Bench Press,chest,upper_chest
+Incline Dumbbell Bench Press,chest,upper_chest
+Incline Smith Machine Bench Press,chest,upper_chest
+Low to High Chest Fly,chest,upper_chest
+Incline Chest Press Machine,chest,upper_chest
+Barbell Bench Press,chest,mid_chest
+Dumbbell Bench Press,chest,mid_chest
+Chest Press Machine,chest,mid_chest
+Flat Dumbbell Fly,chest,mid_chest
+Cable Chest Fly,chest,mid_chest
+Decline Bench Press,chest,lower_chest
+Decline Dumbbell Press,chest,lower_chest
+Decline Chest Press Machine,chest,lower_chest
+High to Low Cable Fly,chest,lower_chest
+Barbell Row,back,upper_back
+Chest-Supported Row,back,upper_back
+Seated Cable Row,back,upper_back
+T-Bar Row,back,upper_back
+Machine Row,back,upper_back
+Lat Pulldown,back,lats
+Wide-Grip Lat Pulldown,back,lats
+Close-Grip Lat Pulldown,back,lats
+Single-Arm Lat Pulldown,back,lats
+Straight-Arm Pulldown,back,lats
+Barbell Shrug,back,traps
+Dumbbell Shrug,back,traps
+Smith Machine Shrug,back,traps
+Cable Shrug,back,traps
+Romanian Deadlift,back,lower_back
+Back Extension,back,lower_back
+Good Morning,back,lower_back
+Rack Pull,back,lower_back
+Barbell Curl,bicep,supinated
+EZ Bar Curl,bicep,supinated
+Preacher Curl,bicep,supinated
+Cable Curl,bicep,supinated
+Incline Dumbbel Curl,bicep,supinated
+Hammer Curl,bicep,nuetral
+Cross-Body Hammer Curl,bicep,nuetral
+Rope Hammer Curl,bicep,nuetral
+Overhead Dumbbell Extension,tricep,long_head
+Overhead Cable Extension,tricep,long_head
+Skull Crusher,tricep,long_head
+EZ Bar Skull Crusher,tricep,long_head
+Tricep Pushdown,tricep,lateral_medial
+Reverse Grip Pushdown,tricep,lateral_medial
+Close-Grip Bench Press,tricep,lateral_medial
+Machine Dip,tricep,lateral_medial
+Barbell Overhead Press,shoulders,front_delt
+Dumbbell Shoulder Press,shoulders,front_delt
+Arnold Press,shoulders,front_delt
+Front Raise,shoulders,front_delt
+Reverse Pec Deck,shoulders,rear_delt
+Rear Delt Fly,shoulders,rear_delt
+Cable Rear Delt Fly,shoulders,rear_delt
+Face Pull,shoulders,rear_delt
+Dumbbell Lateral Raise,shoulders,side_delt
+Cable Lateral Raise,shoulders,side_delt
+Machine Lateral Raise,shoulders,side_delt
+Back Squat,legs,quads
+Front Squat,legs,quads
+Leg Press,legs,quads
+Hack Squat,legs,quads
+Leg Extension,legs,quads
+Bulgarian Split Squat,legs,quads
+Romanian Deadlift,legs,hamstrings
+Seated Leg Curl,legs,hamstrings
+Lying Leg Curl,legs,hamstrings
+Nordic Hamstring Curl,legs,hamstrings
+Hip Thrust,legs,glutes
+Glute Bridge,legs,glutes
+Cable Kickback,legs,glutes
+Smith Machine Hip Thrust,legs,glutes
+Standing Calf Raise,legs,calves
+Seated Calf Raise,legs,calves
+Leg Press Calf Raise,legs,calves
+Smith Machine Calf Raise,legs,calves

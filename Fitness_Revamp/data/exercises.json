@@ -1,0 +1,128 @@
+{ 
+    "chest": {
+        "upper_chest" : [
+            "Incline Barbell Bench Press",
+            "Incline Dumbbell Bench Press", 
+            "Incline Smith Machine Bench Press",
+            "Low to High Chest Fly",
+            "Incline Chest Press Machine"
+        ],
+        "mid_chest" : [
+            "Barbell Bench Press",
+            "Dumbbell Bench Press",
+            "Chest Press Machine",
+            "Flat Dumbbell Fly",
+            "Cable Chest Fly"
+        ],
+        "lower_chest" : [
+            "Decline Bench Press",
+            "Decline Dumbbell Press",
+            "Decline Chest Press Machine",
+            "High to Low Cable Fly"
+        ]
+    },
+    "back" : {
+        "upper_back" : [
+            "Barbell Row",
+            "Chest-Supported Row",
+            "Seated Cable Row",
+            "T-Bar Row",
+            "Machine Row"
+        ],
+        "lats" : [
+            "Lat Pulldown",
+            "Wide-Grip Lat Pulldown",
+            "Close-Grip Lat Pulldown",
+            "Single-Arm Lat Pulldown",
+            "Straight-Arm Pulldown"
+        ],
+        "traps" : [
+            "Barbell Shrug",
+            "Dumbbell Shrug",
+            "Smith Machine Shrug",
+            "Cable Shrug"
+        ],
+        "lower_back" : [
+            "Romanian Deadlift",
+            "Back Extension",
+            "Good Morning",
+            "Rack Pull"
+        ]
+    },
+    "bicep" : {
+        "supinated" : [
+            "Barbell Curl",
+            "EZ Bar Curl",
+            "Preacher Curl",
+            "Cable Curl",
+            "Incline Dumbbel Curl"
+        ],
+        "nuetral" : [
+            "Hammer Curl",
+            "Cross-Body Hammer Curl",
+            "Rope Hammer Curl"
+        ]
+    },
+    "tricep" : {
+        "long_head" : [
+            "Overhead Dumbbell Extension",
+            "Overhead Cable Extension",
+            "Skull Crusher",
+            "EZ Bar Skull Crusher"
+        ],
+        "lateral_medial" : [
+            "Tricep Pushdown",
+            "Reverse Grip Pushdown",
+            "Close-Grip Bench Press",
+            "Machine Dip"
+        ]
+    },
+    "shoulders" : {
+        "front_delt" : [
+            "Barbell Overhead Press",
+            "Dumbbell Shoulder Press",
+            "Arnold Press",
+            "Front Raise"
+        ],
+        "rear_delt" : [
+            "Reverse Pec Deck",
+            "Rear Delt Fly",
+            "Cable Rear Delt Fly",
+            "Face Pull"
+        ],
+        "side_delt" : [
+            "Dumbbell Lateral Raise",
+            "Cable Lateral Raise",
+            "Machine Lateral Raise"
+        ]
+    },
+    "legs" : {
+        "quads" : [
+            "Back Squat",
+            "Front Squat",
+            "Leg Press",
+            "Hack Squat",
+            "Leg Extension",
+            "Bulgarian Split Squat"
+        ],
+        "hamstrings" : [
+            "Romanian Deadlift",
+            "Seated Leg Curl",
+            "Lying Leg Curl",
+            "Nordic Hamstring Curl"
+        ],
+        "glutes" : [
+            "Hip Thrust",
+            "Glute Bridge",
+            "Cable Kickback",
+            "Smith Machine Hip Thrust"
+        ],
+        "calves" : [
+            "Standing Calf Raise",
+            "Seated Calf Raise",
+            "Leg Press Calf Raise",
+            "Smith Machine Calf Raise"
+
+        ]
+    }
+}

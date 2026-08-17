@@ -1,0 +1,15 @@
+{
+  "user": {
+    "weight_lbs": 180,
+    "height_in": 70,
+    "age": 20,
+    "sex": "male",
+    "activity_level": "moderate"
+  },
+  "goal": {
+    "type": "lose",
+    "target_weight_lbs": 165,
+    "timeline_weeks": 12,
+    "start_weight_lbs": 180
+  }
+}
